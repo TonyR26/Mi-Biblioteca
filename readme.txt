@@ -1,30 +1,29 @@
-# Mi biblioteca
+# 📚 Mi Biblioteca
 
-Esta aplicación permite gestionar el inventario, préstamo y devolución de libros en una biblioteca
+Aplicación para gestionar el inventario, préstamo y devolución de libros en una biblioteca.
 
-## Tabla de Contenidos
+## 🚀 Instalación
 
-- [Instalación](#instalación)
-- [Uso](#uso)
-- [Licencia](#licencia)
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/TonyR26/Mi-Biblioteca.git
+   ```
+2. Instala las dependencias:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-## Instalación
+## 🖥️ Uso
 
-1. Clona el repositorio.
-2. Instala las dependencias requeridas usando pip:
+- Ejecuta el archivo principal:
+  ```bash
+  python mi_biblioteca.py
+  ```
+  o abre `MiBiblioteca.exe`.
+- Utiliza la interfaz gráfica para añadir, editar, eliminar, prestar y devolver libros.
 
-    ```shell
-    pip install -r requirements.txt
-    ```
+## 📄 Licencia
 
-## Uso
+Este proyecto está bajo la [Licencia MIT](LICENSE).
 
-El funcionamiento es bastante intuitivo. Para ejecutar la aplicación, simplemente ejecuta el archivo `mi_biblioteca.py` en la consola de Python:
-o ejecuta el archivo MiBiblioteca.exe.
-
-Se mostrara una interfaz gráfica donde podrás gestionar los libros de la biblioteca. Puedes añadir, editar y eliminar libros, así como prestarlos y devolverlos.
-
-
-## Licencia
-
-Este proyecto está licenciado bajo la [Licencia MIT](LICENSE).
+---

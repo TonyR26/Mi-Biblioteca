@@ -1,6 +1,9 @@
+
 # 📚 Mi Biblioteca
 
 Aplicación para gestionar el inventario, préstamo y devolución de libros en una biblioteca.
+
+---
 
 ## 🚀 Instalación
 
@@ -13,6 +16,8 @@ Aplicación para gestionar el inventario, préstamo y devolución de libros en u
    pip install -r requirements.txt
    ```
 
+---
+
 ## 🖥️ Uso
 
 - Ejecuta el archivo principal:
@@ -22,6 +27,10 @@ Aplicación para gestionar el inventario, préstamo y devolución de libros en u
   o abre `MiBiblioteca.exe`.
 - Utiliza la interfaz gráfica para añadir, editar, eliminar, prestar y devolver libros.
 
+---
+
 ## 📄 Licencia
 
 Este proyecto está bajo la [Licencia MIT](LICENSE).
+
+---

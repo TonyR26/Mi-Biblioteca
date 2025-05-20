@@ -25,5 +25,3 @@ Aplicación para gestionar el inventario, préstamo y devolución de libros en u
 ## 📄 Licencia
 
 Este proyecto está bajo la [Licencia MIT](LICENSE).
-
----
